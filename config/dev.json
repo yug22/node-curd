@@ -1,0 +1,4 @@
+{
+  "JWT_SEC_KEY": "hjguj78sjaoxdfrs",
+  "DB_URL": "mongodb+srv://yugtoyug:12345@cluster0.hy8zugj.mongodb.net/module10?retryWrites=true&w=majority"
+}
